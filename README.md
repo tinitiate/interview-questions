@@ -6,9 +6,7 @@ Interview Questions and Answers
   Interview Questions and Answers in various topics
 </p>
 
-<p>
  * Datawarehousing
  * Oracle PL/SQL
  * UNIX Shell Scripting
  * Informatica
-</p>
