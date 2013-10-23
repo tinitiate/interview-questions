@@ -21,6 +21,18 @@ A) Type I
 3) Whats a FACT table
 A) A fact table is a set of values which are measurable, Facts are usually numerical values
    that can be aggregated, and dimension foreign keys.
+
+4) Difference between STAR and SNOWFLAKE schema?
+A) STAR
+   * Implements Dimension Hierarchy in the same table
+   * Dimension Tables are Normalized, but Fact Table is De-Normalized
+   * Useful design for smaller sized dimension tables.
    
-       
-       
+   SNOWFLAKE
+   * Implements Dimension hierarchy in multiple tables.
+   * Both Dimension and Fact Tables are De-Normalized
+   * Use for Larger Size and more complex dimension tables.
+     Like Many-Many on dimensions.
+     
+5)      
+   
