@@ -47,5 +47,5 @@ A) ODS : Contains realtime or near realtime data from various operational databa
    Staging Area: Are a set of tables that hold data from various (OLTP / ODS), where the data is cleaned
    and validated (Staged), from where, its loaded to the DataWarehouse.
    
-7)   
-   
+7) How to handle errors in loads,
+A) These can be handled in ERROR Bucket Tables at Staging / FACT / DIMENSION levels.
