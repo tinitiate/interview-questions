@@ -34,5 +34,14 @@ A) STAR
    * Use for Larger Size and more complex dimension tables.
      Like Many-Many on dimensions.
      
-5)      
+5) How to perform testing in datawarehouse?
+A) All tests are data-centric, hence validating previous (correct data) reports with most recent load data,
+   should validate the load.
+   
+6) What is the difference between Operational Data Store (ODS) and staging area
+A) ODS : Contains realtime or near realtime data from various operational databases (OLTP)
+   Staging Area: Are a set of tables that hold data from various (OLTP / ODS), where the data is cleaned
+   and validated (Staged), from where, its loaded to the DataWarehouse.
+   
+7)   
    
