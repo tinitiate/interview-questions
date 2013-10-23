@@ -1,3 +1,7 @@
+0) Whats a DataWarehouse ?
+A) A DataWarehouse is the cumulative archival of Operationl Data (Historical + Current)
+  ,which is transformed (Usually) to suit specific reporting requirements.
+
 1) what are the types of dimension tables?
 A) 3 Types
    1) Comfirmed is a table that can be shared by shared by multiple Fact Tables or multiple DataMarts.
