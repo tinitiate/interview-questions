@@ -9,7 +9,7 @@
 > Methods.
 
 #### What are the major features of Object Oriented Programming ?
-> Majo Abstraction, Encapsulation, Inheritance and Polymorphism.
+> Abstraction, Encapsulation, Inheritance and Polymorphism.
 
 #### What is Abstraction?
 > Abstraction is a feature of a Class in Object Oriented Programming, where 
